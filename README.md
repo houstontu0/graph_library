@@ -1,2 +1,10 @@
-# graph_library
-A Graph Library with:insert edge, insert vertex, DFS, BFS, Dijkstra, Find Path between u-v. Add tests to show it works.
+# Graph Library
+A Graph Library with:
+- Insert edge
+- Insert vertex
+- DFS
+- BFS
+- Dijkstra
+- Find path between u-v.
+
+Add tests to show it works.
